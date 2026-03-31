@@ -33,7 +33,6 @@ digital-literacy-project/
 ├── task-4-email-etiquette/
 ├── task-5-cybercrime/
 
-
 ---
 
 ## Task Summary--------------------------------------------------------------------------
